@@ -1,1 +1,10 @@
-
+#START#
+127.0.0.1 www.sdc.tre.it
+127.0.0.1 sdc.tre.it
+127.0.0.1 ludonet.tre.it
+127.0.0.1 www.ludonet.tre.it
+127.0.0.1 sdcf.tre.it
+127.0.0.1 www.sdcf.tre.it
+127.0.0.1 pianeta.tre.it
+127.0.0.1 www.pianeta.tre.it 
+#END#
