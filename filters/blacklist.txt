@@ -3544,4 +3544,11 @@
 127.0.0.1 exodus.esurv.it
 127.0.0.1 www.esurv.it
 127.0.0.1 esurv.it
+#14062019
+127.0.0.1 www.futureadpropp.pl
+127.0.0.1 futureadpropp.pl
+127.0.0.1 slamdunkprizes.host
+127.0.0.1 www.slamdunkprizes.host
+127.0.0.1 google-it.slamdunkprizes.host
+127.0.0.1 www.google-it.slamdunkprizes.host
 #END#
