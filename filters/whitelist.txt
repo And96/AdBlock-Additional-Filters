@@ -5,6 +5,7 @@ js.stripe.com
 archive.is
 stripe.com
 coinbase.com
+www.coinbase.com
 gloyah.net
 update.kiwibrowser.com
 kiwibrowser.com
