@@ -3551,4 +3551,9 @@
 127.0.0.1 www.slamdunkprizes.host
 127.0.0.1 google-it.slamdunkprizes.host
 127.0.0.1 www.google-it.slamdunkprizes.host
+#15062019
+127.0.0.1 www.deabyday.tv
+127.0.0.1 deabyday.tv
+127.0.0.1 www.deatv.it
+127.0.0.1 deatv.it
 #END#
