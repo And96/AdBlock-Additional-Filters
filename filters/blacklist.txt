@@ -1,5 +1,5 @@
 #START#
-#15072017#
+#20170715
 127.0.0.1 allyoucan.it
 127.0.0.1 m2pub.com
 127.0.0.1 clicks.beap.bc.yahoo.com
@@ -605,7 +605,7 @@
 127.0.0.1 adxtro.com
 127.0.0.1 www.cdn.linkwelove.com
 127.0.0.1 cdn.linkwelove.com
-#15072017#
+#20170715
 127.0.0.1 seness.info
 127.0.0.1 chequent.info
 127.0.0.1 somethodox.info
@@ -840,7 +840,7 @@
 127.0.0.1 www.mediaadv.mediaon.it
 127.0.0.1 ads.heyzap.com
 127.0.0.1 www.ads.heyzap.com
-#02092017#
+#20170902
 127.0.0.1 www.j1cw9.voluumtrk2.com
 127.0.0.1 j1cw9.voluumtrk2.com
 127.0.0.1 www.voluumtrk2.com
@@ -997,7 +997,7 @@
 127.0.0.1 www.go-studcat.infra.systems
 127.0.0.1 www.look.ichlnk.com
 127.0.0.1 look.ichlnk.com
-#29102017#
+#20171029
 127.0.0.1 1xbet.com
 127.0.0.1 www.1xbet.com
 127.0.0.1 appnext.hs.llnwd.net
@@ -1174,7 +1174,7 @@
 127.0.0.1 www.services.adskeeper.co.uk
 127.0.0.1 www.us.lrd.yahoo.com
 127.0.0.1 www.r.search.yahoo.com
-#31012018#
+#20180131
 127.0.0.1 www.windpromo.it
 127.0.0.1 www.windtel.it
 127.0.0.1 www.shopwind.org
@@ -1195,7 +1195,7 @@
 127.0.0.1 windpromo.org
 127.0.0.1 inwind.ws
 127.0.0.1 promwindservices.com
-#23022018#
+#20180223
 127.0.0.1 www.congratulations.q-15.xyz
 127.0.0.1 congratulations.q-15.xyz
 127.0.0.1 www.q-15.xyz
@@ -2557,7 +2557,7 @@
 127.0.0.1 selfcare.mobilepay.it
 127.0.0.1 mobilepay.it
 127.0.0.1 assets.bro.adca.st
-#26022018
+#20180226
 127.0.0.1 www.tracking-server-prod-1.zenmxapps.com
 127.0.0.1 tracking-server-prod-1.zenmxapps.com
 127.0.0.1 www.zenmxapps.com
@@ -2689,7 +2689,7 @@
 127.0.0.1 www.bam.nr-data.net
 127.0.0.1 www.fabriefly.mobi
 127.0.0.1 fabriefly.mobi
-#17052018
+#20180517
 127.0.0.1 cryptoearnings.xyz
 127.0.0.1 mybinaryearns.top
 127.0.0.1 protectforex.top
@@ -2794,10 +2794,10 @@
 127.0.0.1 ads.netweek.it
 127.0.0.1 cas.criteo.com
 127.0.0.1 www.cas.criteo.com
-#21052018
+#20180501
 127.0.0.1 www.avsponsor.biz
 127.0.0.1 avsponsor.biz
-#06062018
+#20180606
 127.0.0.1 www.000lex4.wcomhost.com
 127.0.0.1 000lex4.wcomhost.com
 127.0.0.1 www.wcomhost.com
@@ -2937,7 +2937,7 @@
 127.0.0.1 www.accu-chek.it
 127.0.0.1 newrelic.com
 127.0.0.1 www.newrelic.com
-#04072018
+#20180704
 127.0.0.1 sweepsit.win
 127.0.0.1 www.sweepsit.win
 127.0.0.1 adslot.com
@@ -3012,10 +3012,6 @@
 127.0.0.1 www.sync3.adsniper.ru
 127.0.0.1 adsniper.ru
 127.0.0.1 www.adsniper.ru
-127.0.0.1 playe.vidto.se
-127.0.0.1 www.playe.vidto.se
-127.0.0.1 vidto.se
-127.0.0.1 www.vidto.se
 127.0.0.1 ad91.neodatagroup.com
 127.0.0.1 www.ad91.neodatagroup.com
 127.0.0.1 neodatagroup.com
@@ -3090,7 +3086,7 @@
 127.0.0.1 www.downcloud.net
 127.0.0.1 liveadoptimizer.com
 127.0.0.1 www.liveadoptimizer.com
-#05082018
+#20180805
 127.0.0.1 presscommtech.com
 127.0.0.1 www.c.medialink.mobi
 127.0.0.1 c.medialink.mobi
@@ -3108,7 +3104,7 @@
 127.0.0.1 greerlies.pro
 127.0.0.1 www.advsmedia.com
 127.0.0.1 www.greerlies.pro
-#01092018
+#20180901
 127.0.0.1 avsponsor.biz
 127.0.0.1 www.avsponsor.biz
 127.0.0.1 priests.top
@@ -3275,7 +3271,7 @@
 127.0.0.1 www.eeduelements.com
 127.0.0.1 src.eeduelements.com
 127.0.0.1 www.src.eeduelements.com
-#16092018
+#20180916
 127.0.0.1 www.things.accountdebt.website
 127.0.0.1 things.accountdebt.website
 127.0.0.1 hh-btr.com
@@ -3284,7 +3280,7 @@
 127.0.0.1 mobiwinday.host
 127.0.0.1 www.partnerx.bethub.io
 127.0.0.1 www.mobiwinday.host
-#17102018
+#20181017
 127.0.0.1 mozilla-privacy.com
 127.0.0.1 dkm6b5q0h53z4.cloudfront.net
 127.0.0.1 liqwid.net
@@ -3444,7 +3440,7 @@
 127.0.0.1 97.notificapush.com
 127.0.0.1 98.notificapush.com
 127.0.0.1 99.notificapush.com
-#12112018#
+#20181112#
 127.0.0.1 higshoes.co
 127.0.0.1 1873083787.rsc.cdn77.org
 127.0.0.1 rsc.cdn77.org
@@ -3467,7 +3463,7 @@
 127.0.0.1 www.off.web4hit.eu
 127.0.0.1 www.web4hit.eu
 127.0.0.1 www.prontocampaign.go2cloud.org
-#20012019
+#20190120
 127.0.0.1 static-e-2-at-wqps7yvkz.stackpathdns.com
 127.0.0.1 vaigowoa.com
 127.0.0.1 giftsearch.site
@@ -3508,7 +3504,7 @@
 127.0.0.1 www.com-gift.site
 127.0.0.1 www.runtnc.net
 127.0.0.1 www.adition.com
-#20032019
+#20190320
 127.0.0.1 out.dirpy.com
 127.0.0.1 mizdoc.com
 127.0.0.1 app2744.smackgates31.life
@@ -3537,25 +3533,44 @@
 127.0.0.1 www.ad1.adfarm1.adition.com
 127.0.0.1 www.adfarm1.adition.com
 127.0.0.1 www.adition.com
-#01042019
+#20190401
 127.0.0.1 www.attiva.exodus.esurv.it
 127.0.0.1 attiva.exodus.esurv.it
 127.0.0.1 www.exodus.esurv.it
 127.0.0.1 exodus.esurv.it
 127.0.0.1 www.esurv.it
 127.0.0.1 esurv.it
-#14062019
+#20190614
 127.0.0.1 www.futureadpropp.pl
 127.0.0.1 futureadpropp.pl
 127.0.0.1 slamdunkprizes.host
 127.0.0.1 www.slamdunkprizes.host
 127.0.0.1 google-it.slamdunkprizes.host
 127.0.0.1 www.google-it.slamdunkprizes.host
-#15062019
+#20190615
 127.0.0.1 www.deabyday.tv
 127.0.0.1 deabyday.tv
 127.0.0.1 www.deatv.it
 127.0.0.1 deatv.it
 127.0.0.1 www.player.deatv.it​
 127.0.0.1 player.deatv.it​
+#20190619
+127.0.0.1 www.bam.nr-data.net
+127.0.0.1 www.livecounter.theyosh.nl
+127.0.0.1 www.deloplen.com
+127.0.0.1 www.newrelic.com
+127.0.0.1 bam.nr-data.net
+127.0.0.1 livecounter.theyosh.nl
+127.0.0.1 deloplen.com
+127.0.0.1 newrelic.com
+127.0.0.1 www.nr-data.net
+127.0.0.1 www.theyosh.nl
+127.0.0.1 nr-data.net
+127.0.0.1 theyosh.nl
+127.0.0.1 www.allowplay.pro
+127.0.0.1 www.crichd.com
+127.0.0.1 allowplay.pro
+127.0.0.1 crichd.com
+127.0.0.1 www.nhpfvdlbjg.com
+127.0.0.1 nhpfvdlbjg.com
 #END#
