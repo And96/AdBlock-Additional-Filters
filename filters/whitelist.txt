@@ -34,4 +34,15 @@ oath.com
 www.glycat.com
 glycat.com
 informit.com
+www.informit.com
+eamobile.com
+www.eamobile.com
+www.adc.eamobile.com
+adc.eamobile.com
+www.cdn.adc.eamobile.com
+cdn.adc.eamobile.com
+worky.biz
+www.worky.biz
+vvvvid.it
+www.vvvvid.it
 #END#
