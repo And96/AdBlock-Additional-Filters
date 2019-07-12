@@ -49,4 +49,8 @@ miui.com
 www.miui.com
 en.miui.com
 www.en.miui.com
+aforismi.meglio.it
+www.aforismi.meglio.it
+meglio.it
+www.meglio.it
 #END#
