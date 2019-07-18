@@ -3835,4 +3835,7 @@
 127.0.0.1 www.nbrwvrqyz.com
 127.0.0.1 www.c1.popads.net
 127.0.0.1 www.fxwpmfdapcalu.com
+#20190718
+127.0.0.1 bestbooks.site
+127.0.0.1 www.bestbooks.site
 #END#
