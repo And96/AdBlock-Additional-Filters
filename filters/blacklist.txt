@@ -3838,4 +3838,9 @@
 #20190718
 127.0.0.1 bestbooks.site
 127.0.0.1 www.bestbooks.site
+#20190719
+127.0.0.1 superfastcdn.com
+127.0.0.1 www.superfastcdn.com
+127.0.0.1 velocecdn.com
+127.0.0.1 www.velocecdn.com
 #END#
