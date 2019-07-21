@@ -53,4 +53,12 @@ aforismi.meglio.it
 www.aforismi.meglio.it
 meglio.it
 www.meglio.it
+www.xoom.virgilio.it
+www.virgilio.it
+xoom.virgilio.it
+virgilio.it
+it.altervista.org
+altervista.org
+www.it.altervista.org
+www.altervista.org
 #END#
