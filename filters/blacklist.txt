@@ -3843,4 +3843,9 @@
 127.0.0.1 www.superfastcdn.com
 127.0.0.1 velocecdn.com
 127.0.0.1 www.velocecdn.com
+#20190802
+127.0.0.1 www.a.mytrend.it
+127.0.0.1 a.mytrend.it
+127.0.0.1 www.mytrend.it
+127.0.0.1 mytrend.it
 #END#
