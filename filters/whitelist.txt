@@ -61,4 +61,12 @@ it.altervista.org
 altervista.org
 www.it.altervista.org
 www.altervista.org
+www.docsity.com
+docsity.com
+www.direttagol.it
+direttagol.it
+www.ul.cdn946.net
+ul.cdn946.net
+www.cdn946.net
+cdn946.net
 #END#
