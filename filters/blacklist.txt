@@ -3848,4 +3848,33 @@
 127.0.0.1 a.mytrend.it
 127.0.0.1 www.mytrend.it
 127.0.0.1 mytrend.it
+#20190806
+127.0.0.1 www.godatemetoday.com
+127.0.0.1 www.leadnet.pl
+127.0.0.1 godatemetoday.com
+127.0.0.1 leadnet.pl
+127.0.0.1 kmmsetuv.com
+127.0.0.1 www.kmmsetuv.com
+127.0.0.1 mrhepxjgnwq.com
+127.0.0.1 www.mrhepxjgnwq.com
+127.0.0.1 pfpkddxu.com
+127.0.0.1 www.pfpkddxu.com
+127.0.0.1 popmonetizer.net 
+127.0.0.1 www.popmonetizer.net 
+127.0.0.1 xml.popmonetizer.net 
+127.0.0.1 revrtb.net 
+127.0.0.1 xml.revrtb.net
+127.0.0.1 www.xml.popmonetizer.net 
+127.0.0.1 www.revrtb.net 
+127.0.0.1 www.xml.revrtb.net
+127.0.0.1 pbsicoesxtex.com 
+127.0.0.1 www.pbsicoesxtex.com
+127.0.0.1 bbpszaetjuchjr.com 
+127.0.0.1 www.bbpszaetjuchjr.com
+127.0.0.1 drosgbtxa.com 
+127.0.0.1 www.drosgbtxa.com
+127.0.0.1 chessbook.icu 
+127.0.0.1 new.chessbook.icu
+127.0.0.1 www.chessbook.icu 
+127.0.0.1 www.new.chessbook.icu
 #END#
