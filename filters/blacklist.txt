@@ -3877,4 +3877,9 @@
 127.0.0.1 new.chessbook.icu
 127.0.0.1 www.chessbook.icu 
 127.0.0.1 www.new.chessbook.icu
+#20190808
+127.0.0.1 www.game1455.hoolidayz35.life
+127.0.0.1 game1455.hoolidayz35.life
+127.0.0.1 www.hoolidayz35.life
+127.0.0.1 hoolidayz35.life
 #END#
