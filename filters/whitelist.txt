@@ -69,4 +69,6 @@ www.ul.cdn946.net
 ul.cdn946.net
 www.cdn946.net
 cdn946.net
+pasteboard.co
+anonymousfiles.io
 #END#
