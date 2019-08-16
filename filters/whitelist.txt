@@ -71,4 +71,8 @@ www.cdn946.net
 cdn946.net
 pasteboard.co
 anonymousfiles.io
+insights.dice.com
+www.insights.dice.com
+dice.com
+www.dice.com
 #END#
