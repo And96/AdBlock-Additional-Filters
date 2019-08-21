@@ -127,12 +127,6 @@
 127.0.0.1 clksite.com
 127.0.0.1 reftop.pw
 127.0.0.1 www.reftop.pw
-#127.0.0.1 s1.medianetworkinternational.com serve x livefs#
-#127.0.0.1 s2.medianetworkinternational.com serve x livefs#
-#127.0.0.1 www.s1.medianetworkinternational.com serve x livefs#
-#127.0.0.1 www.s2.medianetworkinternational.com serve x livefs#
-#127.0.0.1 adshell.net serve x livefs#
-#127.0.0.1 www.adshell.net serve x livefs#
 127.0.0.1 bnserving.com
 127.0.0.1 www.bnserving.com
 127.0.0.1 www.nextlnk4.com
@@ -3882,4 +3876,11 @@
 127.0.0.1 game1455.hoolidayz35.life
 127.0.0.1 www.hoolidayz35.life
 127.0.0.1 hoolidayz35.life
+#20190821
+127.0.0.1 www.weeklypackage.online
+127.0.0.1 weeklypackage.online
+127.0.0.1 www.topernews.me
+127.0.0.1 topernews.me
+127.0.0.1 www.v6szio.dns05.com
+127.0.0.1 v6szio.dns05.com
 #END#
