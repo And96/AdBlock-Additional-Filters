@@ -75,4 +75,17 @@ insights.dice.com
 www.insights.dice.com
 dice.com
 www.dice.com
+#for livefs#
+s1.medianetworkinternational.com
+#for livefs#
+s2.medianetworkinternational.com
+#for livefs#
+www.s1.medianetworkinternational.com
+#for livefs#
+www.s2.medianetworkinternational.com
+#for livefs#
+adshell.net
+#for livefs#
+www.adshell.net
 #END#
+
