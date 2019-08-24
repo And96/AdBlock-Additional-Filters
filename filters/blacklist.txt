@@ -3964,8 +3964,6 @@
 127.0.0.1 www.revrtb.net
 127.0.0.1 www.cdn.vdosupreme.com
 127.0.0.1 www.cdn.vuukle.com
-127.0.0.1 aliez.me
-127.0.0.1 www.liez.me
 127.0.0.1 www.live.harleyquinnwidget.com
 127.0.0.1 live.harleyquinnwidget.com
 127.0.0.1 www.harleyquinnwidget.com
