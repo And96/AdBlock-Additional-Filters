@@ -3972,4 +3972,17 @@
 127.0.0.1 pl.allsports4free.online
 127.0.0.1 www.allsports4free.online
 127.0.0.1 allsports4free.online
+#20190826
+127.0.0.1 w-s.mobi
+127.0.0.1 deloplen.com
+127.0.0.1 rgvqcsxqge.com
+127.0.0.1 riluaneth.com
+127.0.0.1 sendmepush.com
+127.0.0.1 tharbadir.com
+127.0.0.1 www.w-s.mobi
+127.0.0.1 www.deloplen.com
+127.0.0.1 www.rgvqcsxqge.com
+127.0.0.1 www.riluaneth.com
+127.0.0.1 www.sendmepush.com
+127.0.0.1 www.tharbadir.com
 #END#
