@@ -97,6 +97,7 @@ googleapis.com
 www.googleapis.com
 datamixer-pa.googleapis.com
 www.datamixer-pa.googleapis.com
-
+freeroms.com
+www.freeroms.com
 #END#
 
