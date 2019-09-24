@@ -4238,4 +4238,16 @@
 127.0.0.1 www.zaful.com
 127.0.0.1 www.zap.buzz
 127.0.0.1 www.zeusadx.com
+127.0.0.1 jackpotfortune826.website
+127.0.0.1 pantonepops.website
+127.0.0.1 takelnk.com
+127.0.0.1 bilsyndication.com
+127.0.0.1 cdnondemand.org
+127.0.0.1 moneymakercdn.com
+127.0.0.1 www.jackpotfortune826.website
+127.0.0.1 www.pantonepops.website
+127.0.0.1 www.takelnk.com
+127.0.0.1 www.bilsyndication.com
+127.0.0.1 www.cdnondemand.org
+127.0.0.1 www.moneymakercdn.com
 #END#
