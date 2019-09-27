@@ -4238,6 +4238,7 @@
 127.0.0.1 www.zaful.com
 127.0.0.1 www.zap.buzz
 127.0.0.1 www.zeusadx.com
+#20190924
 127.0.0.1 jackpotfortune826.website
 127.0.0.1 pantonepops.website
 127.0.0.1 takelnk.com
@@ -4250,4 +4251,29 @@
 127.0.0.1 www.bilsyndication.com
 127.0.0.1 www.cdnondemand.org
 127.0.0.1 www.moneymakercdn.com
+#20190927
+127.0.0.1 affiliate.across.it
+127.0.0.1 w.nativery.com
+127.0.0.1 across.it
+127.0.0.1 nativery.com
+127.0.0.1 consensu.org
+127.0.0.1 eecd179r3.com
+127.0.0.1 gleaminist.info
+127.0.0.1 ktiwcxvrwedt.com
+127.0.0.1 lohappbnrpgypu.com
+127.0.0.1 nativery.com
+127.0.0.1 taboola.com
+127.0.0.1 themoneytizer.com
+127.0.0.1 www.affiliate.across.it
+127.0.0.1 www.w.nativery.com
+127.0.0.1 www.across.it
+127.0.0.1 www.nativery.com
+127.0.0.1 www.consensu.org
+127.0.0.1 www.eecd179r3.com
+127.0.0.1 www.gleaminist.info
+127.0.0.1 www.ktiwcxvrwedt.com
+127.0.0.1 www.lohappbnrpgypu.com
+127.0.0.1 www.nativery.com
+127.0.0.1 www.taboola.com
+127.0.0.1 www.themoneytizer.com
 #END#
