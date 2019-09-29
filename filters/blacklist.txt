@@ -4276,4 +4276,29 @@
 127.0.0.1 www.nativery.com
 127.0.0.1 www.taboola.com
 127.0.0.1 www.themoneytizer.com
+#20190929
+127.0.0.1 topperformance.xyz
+127.0.0.1 pl.topperformance.xyz
+127.0.0.1 allsports4free.live
+127.0.0.1 trk.performit.xyz
+127.0.0.1 performit.xyz
+127.0.0.1 greatdexchange.com
+127.0.0.1 dchnguasrxubf.com
+127.0.0.1 easylist.club
+127.0.0.1 exosrv.com
+127.0.0.1 spotscenered.info
+127.0.0.1 vidcpm.com
+127.0.0.1 vuqufeqv.com
+127.0.0.1 www.topperformance.xyz
+127.0.0.1 www.pl.topperformance.xyz
+127.0.0.1 www.allsports4free.live
+127.0.0.1 www.trk.performit.xyz
+127.0.0.1 www.performit.xyz
+127.0.0.1 www.greatdexchange.com
+127.0.0.1 www.dchnguasrxubf.com
+127.0.0.1 www.easylist.club
+127.0.0.1 www.exosrv.com
+127.0.0.1 www.spotscenered.info
+127.0.0.1 www.vidcpm.com
+127.0.0.1 www.vuqufeqv.com
 #END#
