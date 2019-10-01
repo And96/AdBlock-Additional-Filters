@@ -4301,4 +4301,7 @@
 127.0.0.1 www.spotscenered.info
 127.0.0.1 www.vidcpm.com
 127.0.0.1 www.vuqufeqv.com
+#20191001
+127.0.0.1 edua29146y.com
+127.0.0.1 www.edua29146y.com
 #END#
