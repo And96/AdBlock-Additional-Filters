@@ -4304,4 +4304,16 @@
 #20191001
 127.0.0.1 edua29146y.com
 127.0.0.1 www.edua29146y.com
+127.0.0.1 www.fbcdn2.com
+127.0.0.1 www.ladsdown.com
+127.0.0.1 www.theonecdn.com
+127.0.0.1 fbcdn2.com
+127.0.0.1 ladsdown.com
+127.0.0.1 theonecdn.com
+127.0.0.1 on.sport365.live
+127.0.0.1 sifuglie.com
+127.0.0.1 targaubs.com
+127.0.0.1 www.on.sport365.live
+127.0.0.1 www.sifuglie.com
+127.0.0.1 www.targaubs.com
 #END#
