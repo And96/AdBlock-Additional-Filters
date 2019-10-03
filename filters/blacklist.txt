@@ -4352,4 +4352,15 @@
 127.0.0.1 www.novage.com.ua
 127.0.0.1 www.openwebtorrent.com
 127.0.0.1 www.zap.buzz
+#20191003
+127.0.0.1 uod2quk646.com
+127.0.0.1 foazasis.com
+127.0.0.1 cfts1tifqr.com
+127.0.0.1 dolohen.com
+127.0.0.1 foazasis.com
+127.0.0.1 www.uod2quk646.com
+127.0.0.1 www.foazasis.com
+127.0.0.1 www.cfts1tifqr.com
+127.0.0.1 www.dolohen.com
+127.0.0.1 www.foazasis.com
 #END#
