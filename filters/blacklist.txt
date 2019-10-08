@@ -4363,4 +4363,7 @@
 127.0.0.1 www.cfts1tifqr.com
 127.0.0.1 www.dolohen.com
 127.0.0.1 www.foazasis.com
+#20191008
+127.0.0.1 link.sofascore.com
+127.0.0.1 www.link.sofascore.com
 #END#
