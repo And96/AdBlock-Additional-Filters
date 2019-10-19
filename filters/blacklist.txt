@@ -4366,4 +4366,7 @@
 #20191008
 127.0.0.1 link.sofascore.com
 127.0.0.1 www.link.sofascore.com
+#20191019
+127.0.0.1 neokumedia.com
+127.0.0.1 www neokumedia.com
 #END#
