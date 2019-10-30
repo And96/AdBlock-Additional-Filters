@@ -4369,4 +4369,14 @@
 #20191019
 127.0.0.1 neokumedia.com
 127.0.0.1 www neokumedia.com
+#20191030
+127.0.0.1 sports-live.me
+127.0.0.1 viatepigan.com
+127.0.0.1 winexclusiveprize.com
+127.0.0.1 www.sports-live.me
+127.0.0.1 www.viatepigan.com
+127.0.0.1 www.winexclusiveprize.com
+127.0.0.1 www6.merriampark.com
+127.0.0.1 www.merriampark.com
+127.0.0.1 merriampark.com
 #END#
