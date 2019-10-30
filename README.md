@@ -1,4 +1,4 @@
-# AdBlockAdditionalFilters
+# AdBlock-Additional-Filters
 Personal lists containing additional filters to adblock domains.
 
 ## Lists
