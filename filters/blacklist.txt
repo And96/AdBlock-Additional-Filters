@@ -4379,4 +4379,13 @@
 127.0.0.1 www6.merriampark.com
 127.0.0.1 www.merriampark.com
 127.0.0.1 merriampark.com
+#20191101
+127.0.0.1 agenziaentrate.icu
+127.0.0.1 agenziaentrateinformazioni.icu
+127.0.0.1 agenziainformazioni.icu
+127.0.0.1 koutobey.net
+127.0.0.1 www.agenziaentrate.icu
+127.0.0.1 www.agenziaentrateinformazioni.icu
+127.0.0.1 www.agenziainformazioni.icu
+127.0.0.1 www.koutobey.net
 #END#
