@@ -4388,4 +4388,11 @@
 127.0.0.1 www.agenziaentrateinformazioni.icu
 127.0.0.1 www.agenziainformazioni.icu
 127.0.0.1 www.koutobey.net
+#20191216
+127.0.0.1 www.secure.adnxs.com
+127.0.0.1 secure.adnxs.com
+127.0.0.1 www.adnxs.com
+127.0.0.1 adnxs.com
+127.0.0.1 www.milano-sfu.it
+127.0.0.1 milano-sfu.it
 #END#
