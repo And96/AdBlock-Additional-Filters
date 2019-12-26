@@ -112,4 +112,6 @@ speaker.com
 www.speaker.com
 pazienti.it
 www.pazienti.it
+controller.intl.xiaomi.com
+www.controller.intl.xiaomi.com
 #END#
