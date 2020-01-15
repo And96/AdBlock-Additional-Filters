@@ -4395,4 +4395,19 @@
 127.0.0.1 adnxs.com
 127.0.0.1 www.milano-sfu.it
 127.0.0.1 milano-sfu.it
+#20200115
+127.0.0.1 www.programma-di-fidelizzazione.club
+127.0.0.1 programma-di-fidelizzazione.club
+127.0.0.1 iliad.programma-di-fidelizzazione.club
+127.0.0.1 seates-clable.com
+127.0.0.1 nibirumail.com
+127.0.0.1 www.iliad.programma-di-fidelizzazione.club
+127.0.0.1 www.seates-clable.com
+127.0.0.1 www.nibirumail.com
+127.0.0.1 yvxerfdxk.com
+127.0.0.1 usinesmycete.info
+127.0.0.1 rencalhadres.info
+127.0.0.1 www.yvxerfdxk.com
+127.0.0.1 www.usinesmycete.info
+127.0.0.1 www.rencalhadres.info
 #END#
