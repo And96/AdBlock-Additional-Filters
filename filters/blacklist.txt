@@ -4410,4 +4410,9 @@
 127.0.0.1 www.yvxerfdxk.com
 127.0.0.1 www.usinesmycete.info
 127.0.0.1 www.rencalhadres.info
+#20200205
+127.0.0.1 banners.sportgrigiorosso.it
+127.0.0.1 www.banners.sportgrigiorosso.it
+127.0.0.1 associated-press.org
+127.0.0.1 www.associated-press.org
 #END#
