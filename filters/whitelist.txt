@@ -114,4 +114,6 @@ pazienti.it
 www.pazienti.it
 controller.intl.xiaomi.com
 www.controller.intl.xiaomi.com
+worldometers.info
+www.worldometers.info
 #END#
