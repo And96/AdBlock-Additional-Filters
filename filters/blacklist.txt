@@ -4415,7 +4415,12 @@
 127.0.0.1 www.banners.sportgrigiorosso.it
 127.0.0.1 associated-press.org
 127.0.0.1 www.associated-press.org
-#2020209
+#20200209
 127.0.0.1 gp.cointelegraph.com
 127.0.0.1 www.gp.cointelegraph.com
+#20200229
+127.0.0.1 www.srv.carbonads.net
+127.0.0.1 www.srv.carbonads.net
+127.0.0.1 srv.carbonads.net
+127.0.0.1 carbonads.net
 #END#
