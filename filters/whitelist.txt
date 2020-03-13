@@ -160,4 +160,15 @@ imasdk.googleapis.com
 www.imasdk.googleapis.com
 awsvodpkg.iltrovatore.it
 www.awsvodpkg.iltrovatore.it
+api.tim.it
+www.api.tim.it
+ticdn.it
+www.ticdn.it
+timparty.tim.it
+www.timparty.tim.it
+demdex.net
+www.demdex.net
+dpm.demdex.net
+www.dpm.demdex.net
+cdn.tim.ticdn.it
 #END#
