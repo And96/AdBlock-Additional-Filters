@@ -11,8 +11,6 @@ www.stripe.com
 stripe.com
 www.archive.is
 archive.is
-www.stripe.com
-stripe.com
 www.coinbase.com
 coinbase.com
 www.gloyah.net
@@ -75,17 +73,11 @@ insights.dice.com
 www.insights.dice.com
 dice.com
 www.dice.com
-#for livefs#
 s1.medianetworkinternational.com
-#for livefs#
 s2.medianetworkinternational.com
-#for livefs#
 www.s1.medianetworkinternational.com
-#for livefs#
 www.s2.medianetworkinternational.com
-#for livefs#
 adshell.net
-#for livefs#
 www.adshell.net
 aliez.me
 www.liez.me
@@ -187,24 +179,17 @@ www.dpm.demdex.net
 cdn.tim.ticdn.it
 a1531.w5.akamai.net
 w5.akamai.net
-cdn.mediaset.net
 www.cdn.mediaset.net
 kinesis.eu-west-1.amazonaws.com
 eu-west-1.amazonaws.com
 e1879.e7.akamaiedge.net
 wwwe1879.e7.akamaiedge.net
-akamaiedge.net
-www.akamaiedge.net
 e7.akamaiedge.net
 www.e7.akamaiedge.net
 d15umi5iaezxgx.cloudfront.net
 akamai.com
-akamai.net
-akamaiedge.net
 akamaized.net
 www.akamai.com
-www.akamai.net
-www.akamaiedge.net
 www.akamaized.net
 braze.com
 www.braze.com
@@ -218,4 +203,43 @@ www.config.88-f.net
 www.88.88-f.net
 88-f.net
 www.88-f.net
+www.usenpaw1.mediasetplay.mediaset.it
+www..mediasetplay.mediaset.it
+feed.entertainment.tv.theplatform.eu
+www.feed.entertainment.tv.theplatform.eu
+www.entertainment.tv.theplatform.eu
+entertainment.tv.theplatform.eu
+www.tv.theplatform.eu
+tv.theplatform.eu
+www.theplatform.eu
+theplatform.eu
+www.a1531.w5.akamai.net
+www.w5.akamai.net
+g.akamaiedge.net
+e8333.g.akamaiedge.net
+www.g.akamaiedge.net
+cdns.eu1.gigya.com
+api.mediaset.net
+d24shwbk6bhtu8.cloudfront.net
+sni.star.mediasetplay.mediaset.it.c.footprint.net
+star.mediasetplay.mediaset.it.c.footprint.net
+mediasetplay.mediaset.it.c.footprint.net
+mediaset.it.c.footprint.net
+it.c.footprint.net
+cloudflare.com
+cdnjs.cloudflare.com
+a1976.w7.akamai.net
+w7.akamai.net
+img-prod.tgcom24.mediaset.it
+sb.scorecardresearch.com
+scorecardresearch.com
+api-msfnews.mediaset.net
+web-portal1.mediaset.it
+cdn.jsdelivr.net.cdn.cloudflare.net
+cdn.jsdelivr.net
+api.cloud.mediaset.net
+api-ott-prod-fe.mediaset.net
+api.one.accedo.tv
+gstaticadssl.l.google.com
+assets.mediaset.net
 #END#
