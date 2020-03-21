@@ -198,4 +198,12 @@ braze.com
 www.braze.com
 dashboard-03.braze.com
 www.dashboard-03.braze.com
+cdn.88-f.net
+config.88-f.net
+88.88-f.net
+www.cdn.88-f.net
+www.config.88-f.net
+www.88.88-f.net
+88-f.net
+www.88-f.net
 #END#
