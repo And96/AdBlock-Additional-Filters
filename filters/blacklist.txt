@@ -4423,4 +4423,9 @@
 127.0.0.1 www.srv.carbonads.net
 127.0.0.1 srv.carbonads.net
 127.0.0.1 carbonads.net
+#20203021
+127.0.0.1 chuo.fm
+127.0.0.1 claim-grand-prizes.life
+127.0.0.1 www.chuo.fm
+127.0.0.1 www.claim-grand-prizes.life
 #END#
