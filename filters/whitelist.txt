@@ -260,4 +260,11 @@ getmdl.io
 www.getmdl.io
 code.getmdl.io
 www.code.getmdl.io
+mssl.fwmrm.net
+hits-i.iubenda.com
+cdn.iubenda.com
+www.tgcom24.mediaset.it
+iubenda.mgr.consensu.org
+www.mediaset.it
+www.iubenda.com
 #END#
