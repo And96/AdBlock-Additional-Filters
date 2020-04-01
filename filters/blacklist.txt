@@ -4428,4 +4428,13 @@
 127.0.0.1 claim-grand-prizes.life
 127.0.0.1 www.chuo.fm
 127.0.0.1 www.claim-grand-prizes.life
+#20200401
+127.0.0.1 cheatonlinemod.com
+127.0.0.1 www.cheatonlinemod.com
+127.0.0.1 dreamleaguesoccer2020hack.cheatonlinemod.com
+127.0.0.1 dwww.reamleaguesoccer2020hack.cheatonlinemod.com
+127.0.0.1 trucchigiochi.com
+127.0.0.1 www.trucchigiochi.com
+127.0.0.1 bigappboi.com
+127.0.0.1 www.bigappboi.com
 #END#
