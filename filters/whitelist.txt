@@ -322,4 +322,8 @@ cdn.krxd.net
 secure-it.imrworldwide.com
 pat.la7.it
 cdn-gl.imrworldwide.com
+mobile.pipe.aria.microsoft.com
+www.mobile.pipe.aria.microsoft.com
+aria.microsoft.com
+www.aria.microsoft.com
 #END#
