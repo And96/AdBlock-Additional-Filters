@@ -326,4 +326,6 @@ mobile.pipe.aria.microsoft.com
 www.mobile.pipe.aria.microsoft.com
 aria.microsoft.com
 www.aria.microsoft.com
+apis.google.com
+encrypted-tbn0.gstatic.com
 #END#
