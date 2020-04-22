@@ -328,4 +328,6 @@ aria.microsoft.com
 www.aria.microsoft.com
 apis.google.com
 encrypted-tbn0.gstatic.com
+pad.mymovies.it
+www.pad.mymovies.it
 #END#
