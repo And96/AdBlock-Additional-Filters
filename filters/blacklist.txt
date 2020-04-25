@@ -4437,4 +4437,13 @@
 127.0.0.1 www.trucchigiochi.com
 127.0.0.1 bigappboi.com
 127.0.0.1 www.bigappboi.com
+#20200425
+127.0.0.1 leendlegagu7.live
+127.0.0.1 tdsjsext1.com
+127.0.0.1 wurfl.io
+127.0.0.1 trendynet.it
+127.0.0.1 www.leendlegagu7.live
+127.0.0.1 www.tdsjsext1.com
+127.0.0.1 www.wurfl.io
+127.0.0.1 www.trendynet.it
 #END#
