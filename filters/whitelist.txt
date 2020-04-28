@@ -330,4 +330,6 @@ apis.google.com
 encrypted-tbn0.gstatic.com
 pad.mymovies.it
 www.pad.mymovies.it
+stats.stackexchange.com
+www.stats.stackexchange.com
 #END#
