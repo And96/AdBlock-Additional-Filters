@@ -334,4 +334,6 @@ stats.stackexchange.com
 www.stats.stackexchange.com
 control.com
 www.control.com
+in.appcenter.ms
+www.in.appcenter.ms
 #END#
