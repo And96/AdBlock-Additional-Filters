@@ -5,7 +5,7 @@ Personal lists containing additional filters to adblock domains.
 Name |Link| Description
 ------------ | ------------- | -------------
 **BLACKLIST** | https://git.io/fj2H8  | Block domains not blocked by popular adblockers - E.g: Energized
-**3_BLACKLIST**  | https://git.io/fj2HR   | Block credit charges from cellular network - Italy only
+**3_BLACKLIST**  | https://git.io/fj2HR   | Block unwanted credit charges from cellular network - Italy only
 **WHITELIST**  | https://git.io/fj2H0  | Unblock domains wrongly blocked by adblockers - E.g: Energized
 
 
