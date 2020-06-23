@@ -336,4 +336,6 @@ control.com
 www.control.com
 in.appcenter.ms
 www.in.appcenter.ms
+totalsport.me
+www.totalsport.me
 #END#
