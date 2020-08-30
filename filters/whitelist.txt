@@ -338,4 +338,10 @@ in.appcenter.ms
 www.in.appcenter.ms
 totalsport.me
 www.totalsport.me
+en.bitcon.it
+www.en.bitcon.it
+bitcon.it
+www.bitcon.it
+it.bitcon.it
+www.bitcon.it
 #END#
