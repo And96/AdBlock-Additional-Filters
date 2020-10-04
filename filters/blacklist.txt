@@ -4500,4 +4500,6 @@
 127.0.0.1 www.smart.downloadfilepdf.club
 127.0.0.1 www.pdflibre.com
 127.0.0.1 www.w580ipcsoftware.blogspot.com
+127.0.0.1 financialdad.net
+127.0.0.1 www.financialdad.net
 #END#
