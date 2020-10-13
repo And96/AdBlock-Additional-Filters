@@ -4502,4 +4502,6 @@
 127.0.0.1 www.w580ipcsoftware.blogspot.com
 127.0.0.1 financialdad.net
 127.0.0.1 www.financialdad.net
+127.0.0.1 lotaboutpay13.live
+127.0.0.1 www.lotaboutpay13.live
 #END#
