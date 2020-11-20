@@ -4504,4 +4504,17 @@
 127.0.0.1 www.financialdad.net
 127.0.0.1 lotaboutpay13.live
 127.0.0.1 www.lotaboutpay13.live
+#20201120
+gabaixo.blogspot.com
+risotonicohumor.blogspot.com
+italiabooks.com
+10milfilmes.blogspot.com
+italy.ebookpdfa.xyz
+www.gabaixo.blogspot.com
+www.risotonicohumor.blogspot.com
+www.italiabooks.com
+www.10milfilmes.blogspot.com
+www.italy.ebookpdfa.xyz
+ebookpdfa.xyz
+www.ebookpdfa.xyz
 #END#
