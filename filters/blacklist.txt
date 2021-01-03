@@ -4505,20 +4505,20 @@
 127.0.0.1 lotaboutpay13.live
 127.0.0.1 www.lotaboutpay13.live
 #20201120
-gabaixo.blogspot.com
-risotonicohumor.blogspot.com
-italiabooks.com
-10milfilmes.blogspot.com
-italy.ebookpdfa.xyz
-www.gabaixo.blogspot.com
-www.risotonicohumor.blogspot.com
-www.italiabooks.com
-www.10milfilmes.blogspot.com
-www.italy.ebookpdfa.xyz
-ebookpdfa.xyz
-www.ebookpdfa.xyz
-trickyrock.com
-www.trickyrock.com
-b1.trickyrock.com
-b1.trickyrock.com
+127.0.0.1 gabaixo.blogspot.com
+127.0.0.1 risotonicohumor.blogspot.com
+127.0.0.1 italiabooks.com
+127.0.0.1 10milfilmes.blogspot.com
+127.0.0.1 italy.ebookpdfa.xyz
+127.0.0.1 www.gabaixo.blogspot.com
+127.0.0.1 www.risotonicohumor.blogspot.com
+127.0.0.1 www.italiabooks.com
+127.0.0.1 www.10milfilmes.blogspot.com
+127.0.0.1 www.italy.ebookpdfa.xyz
+127.0.0.1 ebookpdfa.xyz
+127.0.0.1 www.ebookpdfa.xyz
+127.0.0.1 trickyrock.com
+127.0.0.1 www.trickyrock.com
+127.0.0.1 b1.trickyrock.com
+127.0.0.1 b1.trickyrock.com
 #END#
