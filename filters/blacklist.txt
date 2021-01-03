@@ -4520,5 +4520,5 @@
 127.0.0.1 trickyrock.com
 127.0.0.1 www.trickyrock.com
 127.0.0.1 b1.trickyrock.com
-127.0.0.1 b1.trickyrock.com
+127.0.0.1 www.b1.trickyrock.com
 #END#
